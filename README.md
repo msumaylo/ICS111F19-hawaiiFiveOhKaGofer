@@ -1,2 +1,4 @@
 # ICS111F19-hawaiiFiveOhKaGofer
-First project for an ICS 111 class taken in Fall 2019.  First program I made (not counting smaller practice programs during class).
+First project created in ICS 111, Fall 2019 at the University at Hawaii at Manoa.
+
+EZ.Java class provided by the instructor, creator of class credited in EZ.Java.
